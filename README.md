@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Le Minh Quyet - Frontend Developer
+
 <!--
 **minhquyet1204/minhquyet1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +20,10 @@ Here are some ideas to get you started:
 - Open to work.
 - Love to learn new things related to Frontend.
 - I'm very passionate and dedicated to my work.
+
+
+
+#### Project for learning
+
+- Portfolio: https://github.com/minhquyet1204/Portfolio
+- Ecommerce using Redux Toolkit: https://github.com/minhquyet1204/Ecommerce
