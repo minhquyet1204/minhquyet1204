@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Open to work
+- Love to learn new things related to Frontend
+- I'm very passionate and dedicated to my work.
