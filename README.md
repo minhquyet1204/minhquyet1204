@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 #### Project for learning
 
 - Portfolio: https://github.com/minhquyet1204/Portfolio
+- Movie : https://cinemaself.netlify.app/
 - Ecommerce using Redux Toolkit: https://github.com/minhquyet1204/Ecommerce
